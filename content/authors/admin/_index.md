@@ -153,4 +153,9 @@ awards:
       Recognized for contributions to scaling laws in deep learning.
 ---
 
-Alex Johnson is a Senior AI Research Scientist at Meta AI, where he leads groundbreaking work on large language models and multimodal systems. His research has been published in top conferences like NeurIPS and ICML, with over 10,000 citations. Alex is passionate about pushing the boundaries of AI while ensuring ethical development. Outside of work, he enjoys hiking in the Rockies, building custom PCs, and mentoring the next generation of AI talent.
+Many animals live in groups. Group living provides considerable benefits like reduced predation risk, improved foraging success, and access to shared information. However, group living also presents challenges in maintaining cohesion, coordinating movements, making collective decisions, reducing competition, etc. How do animals successfully navigate these tasks to achieve the benefits of group living? My research aims to address this question by revealing the sensory systems that underly group communication and coordination. 
+
+In particular, I have explored the role of non-visual sensory systems in two social systems: the highly vocal humpback dolphins and the nocturnal striped eel catfish. In my research on humpback dolphins, I investigated the forms and functions of their acoustic communication, as well as how they adapt their communication in the changing environment. Currently, my MPhil research focuses on how striped eel catfish maintain cohesion with their group members. While it was previously believed that vision was essential for fish to maintain group cohesion and integrity, I aim to challenge this belief by studying how these nocturnal fish use hydrodynamic and tactile cues from conspecifics when visual cues are limited.
+
+I mainly use highly quantitative analysis methods in combination with field work or manipulative behavioural experiments. My approach includes a range of techniques for analysing different aspects of animal behaviours, such as bioacoustics signal detection and extraction, and both threshold-based and neural network-based animal movement tracking.
+
