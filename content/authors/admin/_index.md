@@ -12,6 +12,9 @@ last_name: Wang
 # Pronouns (optional)
 pronouns: she/her
 
+# Status emoji
+status:
+  icon: 🚀
 
 # Is this the primary user of the site?
 superuser: true
@@ -55,13 +58,32 @@ education:
       GPA: 4.0/4.0
 
       Specialized in machine learning and robotics.
-  - area: BSc in Marine Science
-    institution: Sun Yat-sen University
-    date_start: 2019-8-30
-    date_end: 2023-6-30
+  - area: BS Computer Science
+    institution: MIT
+    date_start: 2009-09-01
+    date_end: 2013-05-31
     summary: |
-      GPA: 4.2/5.0
+      GPA: 3.9/4.0
 
+      Minored in Mathematics. President of AI Club.
+
+work:
+  - position: Senior AI Research Scientist
+    company_name: Meta AI
+    company_url: 'https://ai.meta.com/'
+    company_logo: ''
+    date_start: 2020-01-01
+    date_end: ''
+    summary: |2-
+      Leading research on multimodal AI systems. Contributed to Llama 2 and other open-source models. 50+ citations in 3 years.
+  - position: AI Research Intern
+    company_name: OpenAI
+    company_url: 'https://openai.com/'
+    company_logo: ''
+    date_start: 2019-06-01
+    date_end: 2019-12-31
+    summary: |
+      Worked on GPT-3 scaling. Co-authored paper on prompt engineering.
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
@@ -100,8 +122,8 @@ skills:
 languages:
   - name: English
     percent: 100
-  - name: Chinese
-    percent: 100
+  - name: Spanish
+    percent: 50
 
 # Awards.
 #   Add/remove as many awards below as you like.
@@ -136,4 +158,3 @@ Many animals live in groups. Group living provides considerable benefits like re
 In particular, I have explored the role of non-visual sensory systems in two social systems: the highly vocal humpback dolphins and the nocturnal striped eel catfish. In my research on humpback dolphins, I investigated the forms and functions of their acoustic communication, as well as how they adapt their communication in the changing environment. Currently, my MPhil research focuses on how striped eel catfish maintain cohesion with their group members. While it was previously believed that vision was essential for fish to maintain group cohesion and integrity, I aim to challenge this belief by studying how these nocturnal fish use hydrodynamic and tactile cues from conspecifics when visual cues are limited.
 
 I mainly use highly quantitative analysis methods in combination with field work or manipulative behavioural experiments. My approach includes a range of techniques for analysing different aspects of animal behaviours, such as bioacoustics signal detection and extraction, and both threshold-based and neural network-based animal movement tracking.
-
